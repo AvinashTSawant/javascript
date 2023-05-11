@@ -1,0 +1,19 @@
+ var sweety="Switee";
+ var cutie="Cutie";
+ console.log("Brfore Swap=-->","firstName=",sweety,"secondeName =",cutie);
+ var temp=sweety;
+ sweety=cutie;
+ cutie=temp;
+ console.log("After Swap=-- >","firstName =",sweety,"secondeName =",cutie);
+
+ console.log("********************************************");
+
+var num1=100;
+var num2=200;
+var num3=300;
+ console.log("Brfore Swap=-->","num1=",num1,"num2=",num2,"num3=",num3);
+ var temp=num1
+ num1=num2;
+ num2=num3;
+ num3=temp
+ console.log("After Swap=-- >","num1=",num1,"num2=",num2,"num3=",num3);
