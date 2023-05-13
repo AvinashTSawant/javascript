@@ -47,6 +47,9 @@ swapValues("Virat","Anushka");
 console.log(`***********************************************`)
 swapValues(1000,2000);
 console.log(`***********************************************`)
+//////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+var stringOperation= function(){
 var givenString ="JS the most popular language of internet"
 console.log(`The Given String is:-${givenString}`)
 
@@ -64,3 +67,5 @@ console.log(`5.F.A Total number words   = ${square.length}`);
 var no =square.length
 console.log(`5.F.B  Square  of total number words = ${no*no}`);
 console.log(`***********************************************`)
+}
+stringOperation();
