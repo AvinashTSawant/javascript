@@ -36,14 +36,23 @@ console.log("******************************************************");
 var indexOfgood = trimmedgivenString.indexOf("good")
 console.log(`7.The index of word "good" :-${indexOfgood}`);
 console.log("******************************************************");
+
+ var sub=trimmedgivenString.substring(22)
+ console.log(`8.A The  substring of index 22 is(using (using substring())  :-${sub}`);
+
+ var sli=trimmedgivenString.substring(22)
+ console.log(`8. B The  substring of index 22 is(using (using slice())  :-${sli}`);
+
+ console.log("******************************************************");
+
 var result = trimmedgivenString.endsWith("up");
 
-console.log(`8.The istring ends with word “up” :-   ${result}`);
+console.log(`9.The istring ends with word “up” :-   ${result}`);
 
 console.log("******************************************************");
 var result1 = trimmedgivenString.startsWith("Hey");
 
-console.log(`9.The istring Starts with word “Hey” :-   ${result1}`);
+console.log(`10.The istring Starts with word “Hey” :-   ${result1}`);
 
 console.log("******************************************************");
 }
