@@ -3,9 +3,9 @@ console.log(`***********************************************`)
 function squareOfWordLength(str){
 //  var a= str.split(" ");
 
- var a1=str.length;
+ var a1 = str.length;
  console.log(`length of given string "${str}" :-  ${a1} `);
- var sq=a1 *a1;
+ var sq = a1 *a1;
  console.log(`square of string length  "${str}" :-  ${sq} `);
  
 
