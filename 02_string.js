@@ -57,7 +57,7 @@ console.log("Is ing string available inside : ", includeResult);
 var searchResult = greet.search("Mor");
 console.log("Search result : ", searchResult);
 
-var sliceResult = greet.slice(4, 6);
+var sliceResult = greet.slice(4, 7);
 console.log("Slice Result is: ", sliceResult);
 
 var subStringResult = greet.substring(4, 6);
