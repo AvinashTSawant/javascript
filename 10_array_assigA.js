@@ -1,4 +1,4 @@
-  const arrayFruits = ["Banana", "Orange", "Apple", "Mango", "Water Melon"];
+ const arrayFruits = ["Banana", "Orange", "Apple", "Mango", "Water Melon"];
 console.log(`given array fruits`);
 console.log(arrayFruits);
 console.log(`-------------------------------------------------------------`);
