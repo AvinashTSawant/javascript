@@ -18,7 +18,7 @@ while (j>=40) { // condition 0<=15
    sum1 = sum1 + " " + j;
    j = j-1;
 }
-console.log(`No of 1 t0 5 is :-[${sum1}]`);
+console.log(`No of 50 t0 40   is :-[${sum1}]`);
 
 console.log(`-------------------------------------------------------------`)
 
