@@ -41,6 +41,7 @@ console.log("======== Get the list of employee names ========");
 // }  );
 // console.log(empNames);
 
+
 const empNames = array_employees.map( (employee)=> {
     return employee.emp_name;
 } );

@@ -25,6 +25,7 @@ const numbersMultipleOf5 = arrayNumbers.filter((element) => {
 return element%5==0;
 });
 console.log(numbersMultipleOf5);
+
 console.log("------------------------------------------------------------------");
 
 console.log(" 5.All the numbers which are between 20 and 50 ");

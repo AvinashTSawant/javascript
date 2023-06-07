@@ -52,6 +52,7 @@ console.log(arrayTcsEmployeeNames);
 //     console.log(emp);
 // }
 
+
 console.log("Get the list of employee id's whose salary is greater than equal 75000 ");
 const arraySalaries = array_employees.filter( (employee)=> {
     return employee.emp_salary>=75000;
