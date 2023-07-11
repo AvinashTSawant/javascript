@@ -7,4 +7,13 @@ arrayNumbers.forEach((element) => {
         arrayNegative.push(element);
     }
  });
- arrayNegative.forEach(element => console.log(element));
+ console.log(arrayNegative);
+//  arrayNegative.forEach(element => console.log(element));
+//======================================================================
+const arrayNums ="Avinash";
+
+
+console.log(" ======== Executing forEach() with only required arguments==========");
+arrayNums.forEach( (currentValue) => {
+    console.log(currentValue);
+} );

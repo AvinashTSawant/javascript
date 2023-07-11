@@ -6,6 +6,7 @@ let result = 0; // 16
 array.forEach( (element) => {
      const wordLength = element.length;
      result = result + wordLength * wordLength;
+    //  console.log(result);
 } );
 console.log(result);
 

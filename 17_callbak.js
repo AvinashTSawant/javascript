@@ -14,7 +14,7 @@ function copyAssignment(){
 }
 
 assignment(copyAssignment);
-
+console.log('');
 
 console.log(`Callback using Function Expression`);
 // Avinash --

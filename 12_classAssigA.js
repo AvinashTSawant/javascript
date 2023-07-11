@@ -30,7 +30,7 @@ console.log('');
  
  for (const Vehicle of allVechical) {
      console.log(` Details Of the Vechical ${Vehicle.name}, ${Vehicle.color}, ${Vehicle.model} , ${Vehicle.price} ,${Vehicle.SeatingCapacity}`);
-     
+
  }
 
  

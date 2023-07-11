@@ -1,4 +1,4 @@
-'use strict'
+// 'use strict'
 // city = "Pune";
 // console.log(city);
 

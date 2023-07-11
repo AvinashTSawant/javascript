@@ -80,6 +80,8 @@ console.log(`6. Average salary of 'IT' department   `);
 const employeeOfItDept = arrayEmps.filter((element) => {
     return (element.emp_dept=="IT") ;
     });
+    console.log(`==============================================`);
+    
 
     const empSalariesOfItDept = employeeOfItDept.map( (employee) => {
         return employee.emp_salary;

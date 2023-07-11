@@ -11,7 +11,7 @@ let student = {
 }
  student = person; // Shallow clone
 
-Object.assign(student, person); // deep clone
+// Object.assign(student, person); // deep clone
 
 student.age = 100;
 person.age = 90;

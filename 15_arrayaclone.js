@@ -17,7 +17,8 @@ console.log(clonedArray);
 
 const arrayNums = [ 20, 3, 4, 56, 90, 400, 49  ]
 const newArray = arrayNums;
-
+console.log(arrayNums);
+console.log(newArray);
 console.log(`========= concat array ==========`);
 const array1 = [1, 2,3, 45, 6];
 const array2 = [33, 44, 88, 99];
