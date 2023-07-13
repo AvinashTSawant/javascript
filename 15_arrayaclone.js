@@ -14,7 +14,7 @@ clonedArray.splice(2, 0, 100, 200);
 console.log(array);
 console.log(clonedArray);
 
-
+console.log(`=======================================`);
 const arrayNums = [ 20, 3, 4, 56, 90, 400, 49  ]
 const newArray = arrayNums;
 console.log(arrayNums);
