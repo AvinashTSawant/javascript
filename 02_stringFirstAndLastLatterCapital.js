@@ -6,7 +6,7 @@ for (let index = 0; index < sp.length; index++) {
   const element = sp[index]
   //  console.log(`${sp}`);
 
-  if (element == ' ') {
+  if (element == ' ') { 
     sp[index + 1] = sp[index + 1].toUpperCase()
     sp[index - 1] = sp[index - 1].toUpperCase()
     // console.log(sp[index-1]);

@@ -14,6 +14,6 @@ const arrayNums ="Avinash";
 
 
 console.log(" ======== Executing forEach() with only required arguments==========");
-arrayNums.forEach( (currentValue) => {
+arrayNums.forEach((currentValue) => {
     console.log(currentValue);
 } );

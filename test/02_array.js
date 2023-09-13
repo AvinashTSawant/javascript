@@ -1,14 +1,14 @@
-// arrayNumbers = [1, -7, 40, 502, -77, 91, 0, 108, 89, -601 ];
+arrayNumbers = [1, -7, 40, 502, -77, 91, 0, 108, 89, -601 ];
 
-// var a= [67, 56, 78, 90, 60, 90, 40, 99, 80];
-// console.log(a[0]);
-// console.log(a.push(20));
-// console.log(a);
-//  for (let index = 0; index < a.length-1; index++) {
-//      const element = a[index];
-//      console.log(element);
+var a= [67, 56, 78, 90, 60, 90, 40, 99, 80];
+console.log(a[0]);
+console.log(a.push(20));
+console.log(a);
+ for (let index = 0; index < a.length-1; index++) {
+     const element = a[index];
+     console.log(element);
      
-//  }
+ }
 // for (const key of a) {
    
        
